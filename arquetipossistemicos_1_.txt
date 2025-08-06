@@ -1,0 +1,267 @@
+ARQUETIPOS SISTÉMICOS
+La palabra viene del griego Archetypos, que significa "modelo primitivo u original". Un hijastro del pensamiento de
+sistemas, los arquetipos de sistemas fueron desarrollados en Innovation Associates a mediados de los años ochenta.
+En ese momento el estudio de la dinámica de sistemas dependía de la diagramación de complejos diagramas causales y
+el modelado en computador, usando ecuaciones matemáticas para definir las relaciones entre variables. Charles Kiefer,
+el Presidente de I.A., sugirió el tratar de comunicar los conceptos mas simplemente. Jennifer Kemeny (con Michael
+Goodman y Peter Senge, basados en parte en las notas desarrolladas por John Sterman) desarrolló ocho diagramas que
+ayudarían a ilustrar los comportamientos mas comúnmente vistos. Algunos arquetipos, incluyendo "Límites del
+crecimiento" y "Desplazamiento de la carga" fueron traducciones de "estructuras genéricas", mecanismos que Jay
+Forrester y otros pioneros del pensamiento de sistemas describieron en los años sesenta y setenta.
+ARQUETIPOS MÁS CONOCIDOS
+1. COMPENSACIÓN ENTRE PROCESO Y DEMORA
+2. LIMITES DEL CRECIMIENTO
+3. DESPLAZAMIENTO DE LA CARGA
+4. CASO ESPECIAL: DESPLAZAMIENTO DE LA CARGA HACIA LA INTERVENCIÓN
+5. EROSIÓN DE METAS
+6. ESCALADA
+7. ÉXITO PARA QUIEN TIENE ÉXITO
+8. TRAGEDIA DEL TERRENO COMÚN
+9. SOLUCIONES RÁPIDAS QUE FALLAN.
+10. CRECIMIENTO Y SUBINVERSIÓN
+
+1. COMPENSACIÓN ENTRE PROCESO Y DEMORA
+Estructura:
+
+Descripción:
+Una persona, un grupo o una organización, actuando con miras a una meta, adaptan su conducta en
+respuesta a la realimentación demorada. Si no son conscientes de la demora, realizan más acciones correctivas de las
+necesarias o a veces desisten por que no ven ningún progreso.
+Síntoma de Advertencia: "Creíamos que estábamos en equilibrio, pero luego tomamos una medida excesiva".
+(Luego podemos tomar una medida excesiva en sentido contrario).
+Principio Administrativo:
+el sistema reaccione mejor.
+
+En un sistema lento, la agresividad produce inestabilidad. Debes ser paciente o lograr que
+
+Ejemplo: Los agentes de bienes raíces siguen construyendo nuevas propiedades hasta saturar el mercado, pero para
+entonces hay más propiedades en construcción de las que el mercado necesita.
+Otros Ejemplos: Una ducha donde el agua caliente reacciona con lentitud ante los cambios de la posición del grifo;
+ciclos de saturación y escasez en producción/distribución (como en el juego de la cerveza); ciclos en las tasas de
+producción e inventario de procesos debido a largos ciclos de manufacturación; la matanza de la Plaza Tiananmen,
+donde el gobierno demoró su reacción ante la protesta y luego actuó con inesperada ferocidad; ascensos y descensos
+repentinos y excesivos en el mercado de valores.
+
+2. LIMITES DEL CRECIMIENTO
+Estructura:
+
+Descripción:
+Un proceso se alimenta de sí mismo para producir un período de crecimiento o expansión acelerada.
+Luego el crecimiento se vuelve más lento (a menudo en forma inexpìcable para quienes participan en el sistema) y
+puede detenerse o se revierte e inicia un colapso acelerado.
+La fase de crecimiento es causada por uno o varios procesos de realimentación reforzadora. La desaceleración surge por
+un proceso compensador que se activa cuando se llega a un "límite". El límite puede ser una restricción en los recursos,
+o una reacción externa o interna ante el crecimiento. El colapso acelerado (cuando ocurre)surge del proceso reforzador
+que se revierte, generando cada vez más contracción.
+Síntoma de Advertencia:
+"¿Por qué preocuparnos por problemas que no tenemos? Estamos creciendo muchísimo".
+(Poco después: "Claro que hay algunos problemas, pero sólo debemos volver a lo que antes funcionaba". Más tarde:
+"Cuanto más corremos, más permanecemos en el mismo lugar".)
+Principio Administrativo: No presiones el proceso reforzador (de crecimiento); elimina (o debilita) el factor
+limitativo.
+Ejemplo: Una compañía instituyó un programa de "acción afirmativa" que ganó en respaldo y actividad cuando se
+introdujeron empleados bien calificados pertenecientes a minorías étnicas en diversos equipos de trabajo. Pero más
+tarde surgió una resistencia; se percibía que los nuevos empleados no se habían "ganado" el puesto compitiendo con
+otros aspirantes calificados. Cuanto más se presionaba a los equipos para aceptar nuevos miembros, más se resistían.
+Otros Ejemplos: Al adquirir una nueva destreza, como el tenis, progresamos rápidamente al principio, al ganar
+competencia y confianza, pero luego nos topamos con límites a nuestra aptitud natural, los cuales sólo se pueden
+superar aprendiendo nuevas técnicas que al principio se adquieren con "menos naturalidad".
+Una firma nueva que crece rápidamente hasta alcanzar un tamaño que requiere aptitudes administrativas más
+profesionales y mejor organización formal; un equipo de productos que trabaja magníficamente hasta que el éxito le
+induce a contratar a demasiados integrantes nuevos que no comparten ese estilo laboral ni los valores de los fundadores;
+una ciudad que crece hasta cubrir las tierras disponibles, con lo cual se elevan los precios de las viviendas; un
+movimiento social que crece hasta toparse con creciente resistencia de los no conversos, una población animal que
+crece deprisa cuando elimina a sus depredadores naturales, y luego agota las pasturas y es víctima de la hambruna.
+
+3. DESPLAZAMIENTO DE LA CARGA
+Estructura:
+
+Descripción: Se usa una "solución" de corto plazo para corregir un problema, con resultados inmediatos
+aparentemente positivos. A medida que esta corrección se usa cada vez más, las medidas correctivas fundamentales se
+aplican cada vez menos. Con el tiempo, las aptitudes para la solución fundamental se atrofian, creando mayor
+dependencia respecto de la solución sintomática.
+
+Síntoma de Advertencia:
+
+"¡Esta solución ha funcionado hasta ahora! ¿Quién dice que nos esperan problemas?
+
+Principio Administrativo: Concéntrate en la solución fundamental. Si la solución sintomática es imperativa (a causa
+de las demoras de la solución fundamental), úsala para ganar tiempo mientras trabajas en la solución fundamental.
+Ejemplo: Un innovador tablero de circuitos se puede usar para desarrollar una funcionalidad única y ahorrar costos
+en muchas aplicaciones de productos, pero también puede sustituir los tableros existentes en productos actuales. Los
+vendedores pueden tratar de venderla a clientes especiales que aprecien las propiedades de esta tecnología y
+eventualmente diseñarán productos nuevos que la explotarán plenamente ("solución fundamental") o venderla a
+"clientes generales" que no se interesan en dichas propiedades y simplemente la usarán como sustituto de otros tableros
+(solución sintomática). Dadas las presiones de los directivos para alcanzar objetivos de ventas, los vendedores venden a
+quien esté dispuesto a comprar, habitualmente "clientes generales", pues hay más de ellos y las demoras en el ciclo de
+ventas son más cortas. Con el tiempo, la nueva tecnología no obtiene una clientela leal y queda sujeta a las presiones de
+precios y de márgenes que caracterizan a los productos de consumo.
+Otros Ejemplos: Vender más a clientes existentes en vez de ampliar la clientela; pagar cuentas mediante pedidos de
+préstamos, en vez de someterse a la disciplina de un presupuesto; usar alcohol, drogas o incluso algo tan benéfico como
+el ejercicio para aliviar el estrés laboral, sin enfrentar la necesidad de controlar la carga laboral; y cualquier adicción a
+cualquier cosa en cualquier parte.
+4. CASO ESPECIAL: DESPLAZAMIENTO DE LA CARGA HACIA LA INTERVENCIÓN
+Estructura:
+
+Las estructuras de desplazamiento de la carga son tan comunes y perniciosas en caso de intervención externa que
+merecen una atención especial. La intervención procura aliviar síntomas de problemas obvios, y lo hace tan bien que los
+integrantes del sistema jamás aprenden a afrontar los problemas.
+Principio Administrativo: "Enseña a la gente a pescar, en vez de darle pescado". Concéntrate en afinar las aptitudes
+del "organismo huésped" para resolver sus propios problemas. Si se necesita ayuda externa, se debe limitar
+estrictamente a una intervención única (y todos deben saberlo de antemano) o ayudar a la gente a desarrollar su propia
+capacidad, recursos e infraestructura para que sea más capaz en el futuro.
+Ejemplo: Una innovadora compañía de seguros estaba comprometida con el concepto de filiales locales
+independientes que podían pedir asistencia ocasional al personal central. Inicialmente el concepto funcionaba bien,
+hasta que la industria sufrió una crisis. Afrontando graves pérdidas repentinas, las oficinas locales llamaron a los
+gerentes centrales con mayor experiencia para que les ayudaran a reorganizar las estructuras de tasación, un proceso que
+llevaba meses. Entretanto, los gerentes locales se concentraron en administrar la crisis. La crisis se resolvió, pero la
+próxima vez que las estructuras de tasación se cuestionaron, las oficinas locales habían perdido confianza. Llamaron a
+los gerentes centrales "para mayor seguridad". Al cabo de varios años de esta conducta, las oficinas locales se
+encontraron sin gente que pudiera manejar independientemente las estructuras de tasación.
+Otros Ejemplos: Dependencia respecto de contratistas externos y no de personal interno. Muchas formas de
+asistencia gubernamental que procuran resolver problemas urgentes y sólo alientan la dependencia y la necesidad de
+incrementar la asistencia: sistemas de "bienestar" que alientan viviendas de una sola familia; programas de vivienda o
+educación laboral que atraen a los necesitados hacia las ciudades con los mejores programas; asistencia alimentaria a
+países en desarrollo, la cual reduce las muertes e incrementa el crecimiento demográfico; sistemas de seguridad social
+que reducen los ahorros personales y alientan la ruptura de la familia extendida.
+
+5. EROSIÓN DE METAS
+Estructura:
+
+Descripción: Una estructura de desplazamiento de la carga donde la solución de corto plazo significa el deterioro de
+una meta fundamental de largo plazo.
+Síntoma de Advertencia: "No importa que nuestras pautas de desempeño se deterioren un poco, sólo hasta que
+termine la crisis".
+Principio Administrativo:
+
+Sostén la visión.
+
+Ejemplo: Una fábrica de alta tecnología pierde participación en el mercado, a pesar de un producto magnífico y
+continuas mejoras. Pero la firma, orientada hacia sus "genios" del diseño, nunca tiene los planes de producción bajo
+control. Un investigador externo descubrió que los clientes estaban cada vez más insatisfechos con los retrasos, y
+compraban productos de la competencia. La compañía se mantuvo en sus trece: "Hemos mantenido un éxito de 90% en
+satisfacer el tiempo de entrega prometido al cliente". Por lo tanto, buscó el problema en otra parte. Sin embargo, cada
+vez que la compañía sufría retrasos en la entrega, reaccionaba alargando el tiempo prometido. El tiempo de entrega
+prometido se volvía cada vez más largo.
+Otros Ejemplos: Personas de éxito que reducen sus expectativas sobre sí mismas y que gradualmente tienen menos
+éxito. Firmas que tácitamente reducen sus pautas de calidad mediante reducciones de presupuesto, en vez de invertir en
+el desarrollo de una calidad más elevada (quizá con costos más reducidos) para hacer las cosas, proclamando entretanto
+sus compromisos con la calidad. Objetivos reducidos del gobierno para "pleno empleo" o equilibrio del déficit nacional.
+Objetivos deteriorados para el control de contaminantes peligrosos o la protección de especies en peligro de extinción.
+6. ESCALADA
+Estructura:
+
+Descripción: Dos personas u organizaciones entienden que su bienestar depende de una ventaja relativa de una sobre
+la otra. Cuando una se adelanta, la otra se siente amenazada y actúa con mayor agresividad para recobrar su ventaja, los
+cual amenaza a la primera, aumentando su agresividad, y así sucesivamente. A menudo cada parte ve su conducta
+agresiva como una reacción defensiva ante la agresión de la otra; pero la "defensa" de cada parte deriva de una escalada
+que escapa a la voluntad de ambas.
+Síntoma de Advertencia :
+cosas".
+
+"Si nuestro oponente se aplacara, podríamos dejar de librar esta batalla para hacer otras
+
+Principio Administrativo: Busca el modo de que ambas partes "ganen" o alcancen sus objetivos. En muchos casos,
+una parte puede revertir unilateralmente la espiral viciosa al realizar "agresivos" actos pacíficos que hagan sentir al otro
+menos amenazado.
+
+Ejemplo: Una compañía desarrollo un ingeniosa diseño para un cochecito que llevaba tres bebés al mismo tiempo
+pero era liviano y cómodo para los viajes. Fue un éxito inmediato entre familias con varios hijos. Casi simultáneamente,
+surgió un competidor con un producto similar. Al cabo de varios años, envidiando la participación en el mercado de la
+otra compañía, la primera redujo el precio en un 20 por ciento. La segunda compañía notó una merma en las ventas y
+también rebajó los precios. La primera compañía, todavía interesada en recobrar su parte en el mercado, bajó los precios
+aún más. La segunda compañía la imitó a regañadientes, aunque sus ganancias empezaban a ser afectadas. Varios años
+después, ambas compañías apenas lograban mantenerse a flote, y la supervivencia del cochecito triple era dudosa.
+Otros Ejemplos: Guerras de publicidad. Creciente recurrencia a los abogados para resolver disputas. Guerras de
+pandillas. La ruptura de un matrimonio. Estimaciones infladas de presupuesto: algunos grupos inflan sus estimaciones y
+otros los imitan para obtener su "trozo de pastel", lo cual induce a todos a inflar sus estimaciones aún más. La batalla
+para ser escuchado por el presidente de una compañía. Y, por cierto, la carrera armamentista.
+7. ÉXITO PARA QUIEN TIENE ÉXITO
+Estructura :
+
+Descripción: Dos actividades compiten por recursos limitados. A mayor éxito, mayor respaldo, con lo cual la otra se
+queda sin recursos.
+Síntoma de Advertencia: Una de las dos actividades, grupos o individuos interrelacionados comienza a andar muy
+bien mientras el otro apenas subsiste.
+Principio Administrativo: Busca la meta abarcadora de logro equilibrado de ambas opciones. En algunos casos,
+rompe o debilita el eslabonamiento entre ambas, para que no compitan por el mismo recurso limitado (esto es deseable
+en casos donde ese eslabonamiento pasa inadvertido y crea una insalubre competencia por los recursos).
+Ejemplo: Un manager tiene dos protegidos y desea que ambos progresen el la empresa. Sin embrago, uno empieza a
+recibir trato preferencial cuando el otro falta una semana por razones de salud. Cuando el segundo protegido regresa al
+trabajo, el manager se siente culpable y elude a esa persona, dando así aún más oportunidades al primer protegido. El
+primer protegido, intuyendo cierta aprobación, prospera, y así recibe más oportunidades. El segundo protegido,
+sintiéndose inseguro, realiza una labor menos efectiva y recibe aún menos oportunidades, aunque ambas personas tenían
+aptitudes similares al comienzo. Finalmente, el segundo protegido se va de la empresa.
+Otros Ejemplos: Equilibrio entre la vida familiar y laboral, donde alguien dedica horas excesivas al trabajo y las
+relaciones familiares se deterioran, con lo cual se vuelve más "doloroso" regresar a casa, lo cual aumenta las
+posibilidades de seguir descuidando la vida familiar. Dos productos compiten por recursos financieros y administrativos
+limitados dentro de una empresa; uno obtiene un éxito inmediato en el mercado y recibe mayor inversión, lo cual agota
+los recursos disponibles para el otro, activando una espiral reforzadora que alimenta el crecimiento del primero y el
+abandono del segundo. Un alumno tímido empieza mal en una escuela (quizá por trastornos emocionales o por un
+problema de aprendizaje que no se detectó), es calificado de "lento" y recibe cada vez menos aliento y atención que sus
+pares más avispados.
+
+8. TRAGEDIA DEL TERRENO COMÚN
+
+Descripción: Los individuos utilizan un recurso común pero limitado reparando únicamente en las necesidades
+individuales. Al principio son recompensados, pero eventualmente hay una disminución en las ganancias, lo cual les
+induce a intensificar los esfuerzos. Al final agotan o erosionan el recurso.
+Síntoma de Advertencia: "Había en abundancia para todos. Ahora las cosas están difíciles. Si deseo sacar provecho
+este año, tendré que trabajar más".
+Principio Administrativo: Administra el "terreno común" educando a todos y creando formas de autorregulación y
+presiones de pares, o mediante un mecanismo de regulación oficial, idealmente diseñado por los participantes.
+Ejemplo: Varias divisiones en una compañía acordaron compartir una fuerza de ventas al minorista. Cada gerente de
+distrito temía que la fuerza compartida no prestara suficiente atención a su área y el volumen declinara. Un gerente muy
+agresivo aconsejó a sus gerentes de cuenta que fijaran objetivos de venta más elevados de lo necesario, de modo que los
+vendedores les dieran al menos el respaldo mínimo. Las otras divisiones notaron esa presión y decidieron emplear la
+misma estrategia. Los gerentes de la nueva fuerza de ventas querían satisfacer a todos sus "clientes", así que
+continuaron aceptando los requerimientos de las divisiones. Esto creó sobrecarga laboral, desempeño inferior e
+incremento de renuncias. Unirse a esa fuerza de ventas pronto fue tan popular como unirse a la Legión Extranjera, y
+cada división tuvo que volver a mantener una fuerza de ventas propia.
+Otros Ejemplos: Agotamiento de un equipo compartido de secretarias. Deterioro en la reputación de servicio después
+de que los clientes tuvieron que escuchar a seis vendedores de seis divisiones de la misma corporación ofreciendo
+productos rivales (el "recurso compartido", en este caso, era la buena reputación de la empresa). Una cadena minorista
+de gran éxito desiste de realizar promociones conjuntas de venta con los fabricantes después de recibir un diluvio de
+propuestas de fabricantes entusiastas, o establece términos para joint ventures que dejan poca ganancia para los
+fabricantes. El agotamiento de un recurso natural cuando varias compañías lo explotan. Y, desde luego, todos los
+problemas de contaminación, desde la lluvia ácida hasta el agotamiento del ozono y el efecto invernáculo.
+9. APAGUEN ESE INCENDIO.
+Estructura:
+
+Descripción: Una solución eficaz en el corto plazo tiene consecuencias de largo plazo imprevistas que requieren más
+uso de la misma solución.
+Síntoma de Advertencia: "Siempre funcionó antes. ¿Por qué no funciona ahora?".
+Principio Administrativo: No descuides el largo plazo. De ser posible no recurras a las soluciones de corto plazo, o
+úsalas sólo para ganar tiempo mientras trabajas en un remedio duradero.
+Ejemplo: Una compañía manufacturera lanzó un nuevo conjunto de componentes de alto desempeño, que al principio
+tuvieron gran éxito. Sin embargo, el directivo estaba empeñado en reducir sus gastos, así que postergó la adquisición de
+nuevas y costosas máquinas de producción. La calidad de la manufactura se resintió, lo cual creó una reputación de
+mala calidad. La demanda cayó abruptamente al año siguiente, lo cual redujo las ganancias y dejó al directivo con
+menos ganas de invertir en un nuevo equipo de producción.
+Otros Ejemplos: Personas y organizaciones que piden préstamos para pagar el intereses de otros préstamos, con lo cual tendrán que
+pagar más intereses más tarde. Reducción de planes de mantenimiento para ahorrar en costos, lo cual conduce eventualmente a más
+fallos y costos más elevados, creando más presiones para reducir costos.
+10. CRECIMIENTO Y SUBINVERSIÓN
+Estructura:
+
+Descripción: El crecimiento se aproxima a un límite que se puede eliminar o desplazar hacia el futuro si la empresa o
+individuo invierte en "capacidad" adicional. Pero la inversión debe ser intensa y rápida para impedir la reducción del
+crecimiento, pues de lo contrario no se hará nunca. A menudo las metas decisivas o las pautas de desempeño se rebajan
+para justificar la subinversión. Cuando esto ocurre, hay una profecía autopredictiva donde las metas más bajas conducen
+a expectativas más bajas, que luego se traducen en un mal desempeño causado por la subinversión.
+Síntoma de Advertencia: "Bien, éramos los mejores, y lo seremos de nuevo, pero ahora tenemos que conservar los
+recursos y no invertir en exceso".
+Principio Administrativo: Si hay un potencial genuino para el crecimiento, construye capacidad anticipándote a la
+demanda, como estrategia para generar demanda. Sostén la visión, especialmente en lo concerniente a la evaluación de
+las pautas de desempeño y la capacidad para satisfacer la demanda potencial.
+Ejemplo: People Express Airlines no pudo construir capacidad de servicio para mantener el ritmo de la explosiva
+demanda. En vez de poner más recursos en la capacitación del personal o de crecer más despacio (por ejemplo,
+elevando un poco los precios), la firma trató de superar sus problemas mediante el crecimiento excesivo. El resultado
+fue el deterioro de la calidad del servicio y el aumento de la competencia, mientras la moral decaía. Ante la creciente
+tensión, la compañía recurrió cada vez más a la "solución" de subinvertir en capacidad de servicio, hasta que los clientes
+dejaron de volar en People Express.
+Otros Ejemplos: Compañías que dejan decaer la calidad de los servicios o los productos, culpando a la competencia
+o la gerencia de ventas por no empeñarse en mantener las ventas. Personas con magníficas visiones que no evalúan de
+modo realista el tiempo y el esfuerzo que deben dedicar al logro de la visión.
+
+
